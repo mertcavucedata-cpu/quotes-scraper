@@ -37,12 +37,14 @@ python queto_main.py
 Sütunlar: `soz`, `yazar`
 
 ### Örnek Çıktı
+```csv
 soz,yazar
-“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”,Albert Einstein
-"“It is our choices, Harry, that show what we truly are, far more than our abilities.”",J.K. Rowling
-“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”,Albert Einstein
-"“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",Jane Austen
-"“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",Marilyn Monroe
+"The world as we have created it is a process of our thinking...",Albert Einstein
+"It is our choices, Harry, that show what we truly are...",J.K. Rowling
+"There are only two ways to live your life...",Albert Einstein
+"The person, be it gentleman or lady, who has not pleasure in a good novel...",Jane Austen
+"Imperfection is beauty, madness is genius...",Marilyn Monroe
+```
 
 ## Ayarlar
 
